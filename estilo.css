@@ -8,8 +8,4 @@ h1 {
 h2 {
    display: inline-block;
    width: 100%;
-   margin-left: auto;
-   margin-right: auto;
-   padding-left: auto;
-   font-family: inherit;
 }
