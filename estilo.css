@@ -7,4 +7,5 @@ h1 {
 
 p { 
    margin-left: 40px;
+   font-style: inherit;
 }
